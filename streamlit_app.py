@@ -38,3 +38,4 @@ import streamlit as st
 #         .encode(x='x:Q', y='y:Q'))
 
 st.title('Uber pickups in NYC')
+st.write("lala")
